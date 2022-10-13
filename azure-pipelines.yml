@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: 'demovm5'
+  name: 'MyAgentPool'
   demands:
   - npm
 
